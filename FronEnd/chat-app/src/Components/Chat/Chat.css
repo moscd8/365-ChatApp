@@ -1,0 +1,25 @@
+.leave-room button{
+    background-color: rgb(179, 44, 44);
+    color: white;
+    height: 2rem;
+}
+
+.ConnectedUsers{
+    margin: 1rem 0 1rem 0;
+}
+
+.MessageForm{
+    padding-top: 2rem;
+    
+}
+
+.message-container{
+    padding: 10px 0 20px 0; 
+}
+
+.user-message:nth-child(even){ 
+    background-color: rgb(187, 187, 211);
+    margin-top: 10px;
+    padding: 1rem 0 1rem 0;
+    
+}
